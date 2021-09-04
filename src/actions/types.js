@@ -1,0 +1,9 @@
+export const AUTH_USER = 'auth_user';
+export const UNAUTH_USER = 'unauth_user';
+export const AUTH_ERROR = 'auth_error';
+export const FETCH_CONTENT = 'fetch_content';
+export const FETCH_UPLOADS = 'fetch_uploads';
+export const FETCH_FILES = 'fetch_files';
+export const UPLOAD_RESULT = 'upload_result';
+export const ADD_FILE_SUCCESS = 'add_file_success';
+export const ADD_FILE_ERROR = 'add_file_error';
